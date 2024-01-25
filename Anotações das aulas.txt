@@ -1,0 +1,24 @@
+CURSO HTML5 CSS3
+
+Modulo 2
+
+Circulo Cromático
+
+Cores Primárias: Amarelo - Vermelho - Azul
+Cores Secundárias : Laranja - Violeta - Verde
+Cores Terceciárias: Amarelo-esverdeado - Amarelo-alaranjado - Vermelho-alaranjado - Vermelho-arroxeado - Azul-arroxeado - Azul-esverdeado
+
+OBS: As cores tercíarias tem tom de pastel
+
+Cores Frias e Quentes
+
+Cores Complementares - Traçar reta na reta - na paleta de cores
+
+Cores Análogas - cores vizinhas - na paleta de cores
+
+color.adobe.com
+Paletton
+
+Chrome Web Store
+plugin: ColorZilla
+
